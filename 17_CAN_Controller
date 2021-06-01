@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,"100nF","Capacitor_SMD:C_0603_1608Metric","C14663"
+C2 C3 ,2,"22pF","Capacitor_SMD:C_0603_1608Metric","C1653"
+J1 J2 J3 J5 J6 J7 J8 J9 ,8,"Conn_01x01","Chimere:Castellated_conn","~"
+R1 ,1,"0","Resistor_SMD:R_0603_1608Metric","C21189"
+R2 ,1,"100k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C25803"
+U1 ,1,"MCP2515-xSO","Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm","C153782"
+Y1 ,1,"X322516MLB4SI","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","C13738"
