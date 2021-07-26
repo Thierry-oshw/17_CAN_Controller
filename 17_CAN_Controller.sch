@@ -19,7 +19,7 @@ U 1 1 606CE97F
 P 4175 1275
 F 0 "J3" H 4255 1317 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1226 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1275 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1275 50  0001 C CNN
 F 3 "~" H 4175 1275 50  0001 C CNN
 	1    4175 1275
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 606CFC19
 P 4175 925
 F 0 "J1" H 4255 967 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 876 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 925 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 925 50  0001 C CNN
 F 3 "~" H 4175 925 50  0001 C CNN
 	1    4175 925 
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 606D5E52
 P 4175 1450
 F 0 "J5" H 4255 1492 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1401 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1450 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1450 50  0001 C CNN
 F 3 "~" H 4175 1450 50  0001 C CNN
 	1    4175 1450
 	1    0    0    -1  
@@ -72,7 +72,7 @@ U 1 1 6079B82F
 P 4175 1975
 F 0 "J8" H 4255 2017 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1926 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1975 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1975 50  0001 C CNN
 F 3 "~" H 4175 1975 50  0001 C CNN
 	1    4175 1975
 	1    0    0    -1  
@@ -83,7 +83,7 @@ U 1 1 6079BCA3
 P 4175 1100
 F 0 "J2" H 4255 1142 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1051 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1100 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1100 50  0001 C CNN
 F 3 "~" H 4175 1100 50  0001 C CNN
 	1    4175 1100
 	1    0    0    -1  
@@ -120,7 +120,7 @@ U 1 1 60AF3381
 P 4175 2150
 F 0 "J9" H 4255 2192 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 2101 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 2150 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 2150 50  0001 C CNN
 F 3 "~" H 4175 2150 50  0001 C CNN
 	1    4175 2150
 	1    0    0    -1  
@@ -206,7 +206,7 @@ U 1 1 60B6E0E2
 P 4175 1625
 F 0 "J6" H 4255 1667 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1576 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1625 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1625 50  0001 C CNN
 F 3 "~" H 4175 1625 50  0001 C CNN
 	1    4175 1625
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 60B6E0E8
 P 4175 1800
 F 0 "J7" H 4255 1842 50  0000 L CNN
 F 1 "Conn_01x01" H 4255 1751 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4175 1800 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4175 1800 50  0001 C CNN
 F 3 "~" H 4175 1800 50  0001 C CNN
 	1    4175 1800
 	1    0    0    -1  
