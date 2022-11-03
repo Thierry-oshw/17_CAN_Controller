@@ -483,7 +483,7 @@
       (net 10 "MISO") (pinfunction "Pin_7") (pintype "passive") (tstamp 5630f04e-221e-475b-854e-ff11d83b3457))
     (pad "8" thru_hole oval (at 0 -17.78 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 11 "SCK") (pinfunction "Pin_8") (pintype "passive") (tstamp 950ea87d-6cc1-4fd8-b222-e47920b5cedc))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
